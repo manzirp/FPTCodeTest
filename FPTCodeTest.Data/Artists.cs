@@ -8,7 +8,7 @@ namespace FPTCodeTest.Data
     {
         public int ArtistID { get; set; }
         public string ArtistName { get; set; }
-        public string AblumName { get; set; }
+        public string AlbumName { get; set; }
         public string ImageUrl { get; set; }
         public DateTime ReleaseDate { get; set; }
         public decimal Price { get; set; }
